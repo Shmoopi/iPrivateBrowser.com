@@ -1,0 +1,10 @@
+/* humanstxt.org */
+
+/* TEAM */
+   Name: iPrivateBrowser Development Team
+   Site: https://iPrivateBrowser.com
+
+/* SITE */
+   Last update: 2026/01/04
+   Standards: HTML5, CSS3
+   Components: Bootstrap, Animate.css
